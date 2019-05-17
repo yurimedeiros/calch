@@ -18,7 +18,6 @@ input ("Aperte Enter Para Finalizar")
 print ("fim")
 
 <?php
-
-
+"voce nao pode saber"
 
 ?>
