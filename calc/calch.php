@@ -18,7 +18,9 @@ input ("Aperte Enter Para Finalizar")
 print ("fim")
 
 <?php
+"voce nao pode saber"
 
+<<<<<<< HEAD
 echo "olá mundo estamos de olho"
 
 echo "Meu Primeiro Código PHP! <strong>Hello World Tecnolog</strong>";
@@ -27,3 +29,6 @@ echo "Meu Primeiro Código PHP! <strong>Hello World Tecnolog</strong>";
 ?>
 
 <div> HTML É o inicio</div>
+=======
+?>
+>>>>>>> 7cce411a244010bdc6b6c2d38ecc3af10c67a73a
