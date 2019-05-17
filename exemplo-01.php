@@ -1,0 +1,7 @@
+?
+
+$nome = "Hcode";
+
+echo $echo
+
+?>
